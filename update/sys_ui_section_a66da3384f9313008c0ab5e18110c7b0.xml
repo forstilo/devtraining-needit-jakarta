@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Needit formatter section" section_id="a66da3384f9313008c0ab5e18110c7b0" sys_domain="global" table="x_58872_needit_needit" version="3" view="New_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 13:01:47</sys_created_on>
+            <sys_id>e26de3384f9313008c0ab5e18110c73a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Needit formatter section" display_value="Needit formatter section" name="x_58872_needit_needit" sys_domain="global" view="08cba7f44f9313008c0ab5e18110c7ea">a66da3384f9313008c0ab5e18110c7b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 13:01:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 13:01:47</sys_created_on>
+            <sys_id>666de3384f9313008c0ab5e18110c73a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Needit formatter section" display_value="Needit formatter section" name="x_58872_needit_needit" sys_domain="global" view="08cba7f44f9313008c0ab5e18110c7ea">a66da3384f9313008c0ab5e18110c7b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 13:01:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 13:01:47</sys_created_on>
+            <sys_id>e66de3384f9313008c0ab5e18110c73a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Needit formatter section" display_value="Needit formatter section" name="x_58872_needit_needit" sys_domain="global" view="08cba7f44f9313008c0ab5e18110c7ea">a66da3384f9313008c0ab5e18110c7b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 13:01:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Needit formatter section</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-12 13:01:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a66da3384f9313008c0ab5e18110c7b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Needit formatter section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_a66da3384f9313008c0ab5e18110c7b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-12 13:01:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New view" name="New_view">08cba7f44f9313008c0ab5e18110c7ea</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
